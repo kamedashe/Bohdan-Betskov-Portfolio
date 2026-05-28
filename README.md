@@ -12,9 +12,14 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/bohdan-betskov-569327405/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.fiverr.com/kamedashe"><img src="https://img.shields.io/badge/Fiverr-Hire%20Me%20(Freelance)-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" /></a>
   <a href="https://t.me/dreamotearz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://github.com/kamedashe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
+> [!IMPORTANT]
+> 💼 **Available for Freelance & Custom Projects!**
+> You can view my services, order a custom gig, or contact me directly on my [**Fiverr Profile (kamedashe)**](https://www.fiverr.com/kamedashe). Let's build something great together!
 
 ---
 
@@ -47,7 +52,7 @@
 *Engineered a lightweight, hardware-level Captive Portal networking architecture for Linux IoT deployments to mitigate driver and hardware constraints.*
 * **Low-Level Isolation:** Bypassed NetworkManager constraints using `hostapd` and `dnsmasq` daemons, eliminating OS D-Bus crashes and guaranteeing 100% access point stability during internet drops.
 * **Orchestration Logic:** Created a robust daemon system in Bash and Flask to seamlessly transition devices between Client and Access Point modes while capturing credentials safely.
-* **Commercial Success:** Successfully productized the solution as a top-rated service on Fiverr, provisioning hardened standalone OS images for Raspberry Pi Lite and NVIDIA Jetson.
+* **Commercial Success:** Successfully productized the solution as a top-rated service on [Fiverr](https://www.fiverr.com/kamedashe), provisioning hardened standalone OS images for Raspberry Pi Lite and NVIDIA Jetson.
 * **Tech Stack:** `Python` `Flask` `Bash Scripting` `hostapd` `dnsmasq` `HTML/JS` `Linux`
 
 ### ✈️ Avia Navigation Data Pipeline & Admin API `Data Engineering`
