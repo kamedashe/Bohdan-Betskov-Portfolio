@@ -76,6 +76,18 @@
 * **P2P Audio:** Implemented low-latency peer-to-peer audio streams with WebRTC, routing heavy traffic directly between clients to drastically lower backend processing costs.
 * **Tech Stack:** `Node.js` `Express` `Socket.io` `WebRTC` `Node-Telegram-Bot-API` `Heroku`
 
+### 🏛️ pgRouting Core Architecture Contribution `C++ / PostgreSQL / GIS`
+*Designed the logical boundaries and successfully advocated for API signature changes in pgRouting's topological planarization kernel.*
+* **Separation of Concerns:** Successfully argued against mixing low-level topological operations (`pgr_makeBiconnectedPlanar`, `pgr_makeMaximalPlanar`) with high-level metric-space cost heuristics, preserving strict logical boundaries between spatial graph topology and business-logic cost layers.
+* **Performance Scaling:** Prevented massive performance bottlenecks ($NP$-hard Dijkstra/A* pathfinders during graph planarization) on massive GIS datasets (e.g., OpenStreetMap road networks), maintaining optimal algorithmic complexity.
+* **SQL-Native Flexibility:** Proposed delegating cost assignment to downstream SQL `UPDATE`/`INSERT` operations, ensuring flexibility for end-users to apply business-specific weights.
+* **Impact:** The architectural proposal was fully accepted by pgRouting maintainers, resulting in a clean, highly-performant signature: `(seq, source, target)` with costs handled purely in standard SQL.
+* **Tech Stack:** `PostgreSQL` `pgRouting` `GIS Core Architecture` `SQL` `Algorithmic Optimization`
+
+<div align="center">
+  <img src="assets/pgrouting_contribution.png" alt="pgRouting Core Architectural Proposal" width="85%" style="border-radius: 8px; border: 1px solid #333;" />
+</div>
+
 ---
 
 ## 🎓 Education & Languages
