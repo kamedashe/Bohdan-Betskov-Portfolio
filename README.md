@@ -1,11 +1,11 @@
 # Hey there! I'm Bohdan Betskov 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=700&height=50&lines=Backend+Developer+%7C+Python+%2F+Node.js;Automation+%26+DevOps+Engineer;IoT+Networking+%26+Real-time+WebRTC;Building+Fault-Tolerant+ETL+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=700&height=50&lines=Backend+Developer+%7C+Python+%2F+Node.js;AI+%2F+LLM+Engineer+%7C+Agentic+Systems+%26+RAG;Automation+%26+DevOps+Engineer;IoT+Networking+%26+Real-time+WebRTC;Building+Fault-Tolerant+ETL+Pipelines" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <b>Python / Node.js Backend Developer | Automation & DevOps Engineer</b><br>
+  <b>Python / Node.js Backend Developer | AI & Automation Engineer</b><br>
   📍 Vinnitsya, Ukraine (Open to Relocation & Remote)<br>
   📧 <a href="mailto:beckovbogdan@gmail.com">beckovbogdan@gmail.com</a> | 📞 +380973031674
 </p>
@@ -25,7 +25,7 @@
 
 ## ⚡ About Me
 
-> Performance-driven Backend Developer and Automation Engineer with deep expertise in Python, Node.js, and Linux systems architecture. Specializing in designing fault-tolerant ETL pipelines, developing low-level hardware networking solutions for IoT devices (Raspberry Pi, NVIDIA Jetson), automating complex browser workflows (Playwright), and integrating real-time communication protocols (WebRTC, Socket.io). Focused on engineering secure, scalable, and high-performance backend systems.
+> Performance-driven Backend Developer and Automation Engineer with deep expertise in Python, Node.js, and Linux systems architecture. I build **agentic LLM systems** — multi-provider integrations, native tool-calling loops, and local RAG pipelines — alongside fault-tolerant ETL pipelines, low-level hardware networking for IoT devices (Raspberry Pi, NVIDIA Jetson), complex browser automation (Playwright), and real-time communication protocols (WebRTC, Socket.io). Focused on engineering secure, scalable, and high-performance backend systems.
 
 ---
 
@@ -35,8 +35,10 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **AI & LLM Engineering** | ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_%26_Vector_Search-0A9396?style=flat-square) ![Tool Calling](https://img.shields.io/badge/Agentic_Tool--Calling-005F73?style=flat-square) |
+| **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Desktop & Systems** | ![Tauri](https://img.shields.io/badge/Tauri_v2-24C8DB?style=flat-square&logo=tauri&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | **Automation & Data** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
 | **Real-time & Network** | ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) |
 | **DevOps & Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
@@ -48,6 +50,15 @@
 
 ## 📂 Featured Projects & Experience
 
+### 💎 Lumina — Agentic Desktop AI Assistant `Rust / Tauri / LLM / RAG`
+*Built a provider-agnostic desktop AI assistant where the model acts on the local system through native tool-calling — files, processes, and semantic document search.* → [**Repository**](https://github.com/kamedashe/Lumina)
+* **Multi-Provider Abstraction Layer:** Unified four different protocol families behind a single Rust interface — Ollama, OpenAI-compatible endpoints (OpenAI / OpenRouter / Groq / LM Studio / vLLM), Anthropic Messages API, and Google Gemini — making providers hot-swappable at runtime with no changes to the agent logic.
+* **Native Tool-Calling Agent Loop:** Replaced brittle regex-based action parsing with each provider's native function-calling API. The model requests a tool → Rust executes it → the result is fed back into the conversation → the loop continues until a final answer, bounded by a step limit to prevent runaway loops.
+* **Real-Time Streaming Over IPC:** Hand-wrote SSE and NDJSON stream parsers in Rust, piping tokens to the UI through a Tauri IPC Channel. Keeping every request server-side eliminates CORS entirely and ensures API keys never reach the renderer process.
+* **Local RAG Pipeline:** Chunked embeddings with cosine-similarity search over a local SQLite vector store, scoped to user-attached documents; re-indexing replaces stale chunks instead of duplicating them, with an automatic Ollama fallback for providers that expose no embeddings endpoint.
+* **Solving Real Protocol Divergence:** Each vendor breaks differently — Anthropic requires consecutive tool results merged into a single user turn and rejects `temperature` on newer models with a 400; Gemini rejects empty JSON Schema `properties` and unknown schema keys; Ollama returns tool calls with no IDs. Normalizing these quirks was the core engineering challenge.
+* **Tech Stack:** `Rust` `Tauri v2` `React 19` `TypeScript` `SQLite` `QuickJS` `Tailwind CSS` `SSE/NDJSON`
+
 ### 🔒 Hardened Linux Captive Portal `IoT / Jetson / RPi`
 *Engineered a lightweight, hardware-level Captive Portal networking architecture for Linux IoT deployments to mitigate driver and hardware constraints.*
 * **Low-Level Isolation:** Bypassed NetworkManager constraints using `hostapd` and `dnsmasq` daemons, eliminating OS D-Bus crashes and guaranteeing 100% access point stability during internet drops.
@@ -57,10 +68,12 @@
 
 ### ✈️ Avia Navigation Data Pipeline & Admin API `Data Engineering`
 *Designed an enterprise-grade data processing engine automating the acquisition, validation, and spatial optimization of FAA aeronautical datasets.*
-* **Robust Scraping & API:** Built an asynchronous REST API using FastAPI alongside an intelligent data scraper equipped with isolated error-handling blocks to prevent complete pipeline failures.
+* **Robust Scraping & API:** Built an asynchronous REST API using Django alongside an intelligent data scraper equipped with isolated error-handling blocks to prevent complete pipeline failures during partial data loss.
 * **Spatial Optimization:** Automated geodata cleanup and optimization using Pandas and GeoPandas, paired with a custom storage manager that auto-purges corrupted/outdated datasets.
 * **Glassmorphism Admin UI:** Implemented a modern dashboard with Tailwind CSS for real-time task status tracking, remote scraping triggers, and historical log monitoring.
-* **Tech Stack:** `Python 3.10+` `FastAPI` `Pandas` `GeoPandas` `Docker` `Tailwind CSS` `Telegram Bot API`
+* **Live Alerting:** Integrated a Telegram Bot API notification layer that broadcasts error alerts and live tracebacks directly to engineering channels.
+* **Containerized Infra:** Packaged the full stack with Docker and Docker Compose for seamless server environment replication.
+* **Tech Stack:** `Python 3.10+` `Django` `Pandas` `GeoPandas` `Docker` `Tailwind CSS` `Telegram Bot API`
 
 ### 🤖 Goszakup Tender Bot ("Two Brothers" Architecture) `Automation / QA`
 *Created a high-speed automated system designed for persistent session monitoring and rapid application submission on the national trade procurement platform.*
